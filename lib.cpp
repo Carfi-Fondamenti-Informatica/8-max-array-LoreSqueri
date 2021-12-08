@@ -1,3 +1,4 @@
+//libreria
 #include "lib.h"
 float massimo (float max[], int n, float m) {
     for (int i=0; i<n; i++) {
